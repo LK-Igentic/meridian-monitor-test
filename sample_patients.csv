@@ -1,0 +1,4 @@
+patient_id,full_name,date_of_birth,ssn,mrn,email,diagnosis,ecg_finding
+1001,John Fakename,1972-04-15,123-45-6789,MRN-00123,[email protected],Atrial Fibrillation,irregular RR intervals
+1002,Jane Testperson,1965-11-02,987-65-4321,MRN-00124,[email protected],Hypertension,normal sinus rhythm
+1003,Sam Sampleton,1980-07-30,456-78-9012,MRN-00125,[email protected],Paroxysmal AFib,intermittent AF episodes
